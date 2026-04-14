@@ -75,17 +75,17 @@ Minor difference — gender alone is not a strong predictor.
 ## Top Predictors (Summary)
 Based on EDA, these are the most important features to include in any model:
 
-OverTime — strongest binary signal
-MonthlyIncome — significant income gap
-JobRole — Sales Rep vs Director gap is huge
-StockOptionLevel — no options = high risk
-Age — younger employees leave more
-MaritalStatus — single employees leave more
-JobSatisfaction — clear inverse relationship
-WorkLifeBalance — score 1 is a red flag
-BusinessTravel — frequent travel = burnout
-YearsAtCompany — early tenure is risky
-DistanceFromHome — mild but consistent signal
+OverTime — strongest binary signal</br>
+MonthlyIncome — significant income gap </br>
+JobRole — Sales Rep vs Director gap is huge </br>
+StockOptionLevel — no options = high risk </br>
+Age — younger employees leave more </br>
+MaritalStatus — single employees leave more </br>
+JobSatisfaction — clear inverse relationship </br>
+WorkLifeBalance — score 1 is a red flag </br>
+BusinessTravel — frequent travel = burnout </br>
+YearsAtCompany — early tenure is risky </br>
+DistanceFromHome — mild but consistent signal </br>
 
 
 └── requirements.txt
