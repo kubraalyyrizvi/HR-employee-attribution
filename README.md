@@ -88,31 +88,6 @@ YearsAtCompany — early tenure is risky
 DistanceFromHome — mild but consistent signal
 
 
-## Tech Stack
-
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
-
-
-## How to Run
-bashgit clone https://github.com/yourusername/hr-attrition
-cd hr-attrition
-pip install -r requirements.txt
-jupyter notebook
-
-## Project Structure
-hr-attrition/
-│
-├── data/
-│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
-│
-├── notebooks/
-│   └── EDA.ipynb
-│   └── Model.ipynb
-│
-├── README.md
 └── requirements.txt
 
 📜 License
